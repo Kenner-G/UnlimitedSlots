@@ -1,9 +1,9 @@
 name: UnlimitedSlots
 main: Gumbratt\UnlimitedSlots\Main
 version: 1.0.0
-api: 1.14.0
+api: [2.0.0,3.0.0]
 #When you wish up update this, use
 #api: 2.0.0
 load: POSTWORLD
-author: Gumbrat-And-TheDeibo
+author: Gumbrat & Kenner G.
 description: No player limit!
